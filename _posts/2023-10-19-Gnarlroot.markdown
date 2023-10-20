@@ -28,7 +28,7 @@ categories: jekyll update
 # In the intermission phase, Gnarlroot will summon **Doom Roots**
  Soak **Splintering Charcoal** (rings) to get **[Ember-Charred](https://ptr.wowdb.com/spells/425002-ember-charred)** debuff, then burn the roots.
 
-![Splintering Charcoal](/assets/Gnarlroot_Splinter.gif)
+![Splintering Charcoal](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnarlroot_Splinter.gif)
 
 # When all of the roots are burned, Gnarlroot gains [Uprooted Agony](https://ptr.wowdb.com/spells/430324-uprooted-agony)
 
