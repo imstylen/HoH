@@ -1,14 +1,30 @@
 ---
 layout: post
-title:  "Amirdrassil - 1 - Gnarlroot"
-date:   2023-10-19 12:27:58 -0400
-categories: jekyll update
+title:  "1 - Gnarlroot (Heroic)"
 ---
+
+<hr>
+# **TLDR**
+**Everyone**
+- **Dodge** **<span style="color:purple"> purple</span>** frontal, and **<span style="color:orange"> orange</span>** swirlies.
+- If you get the **<span style="color:red"> big red circle</span>**, **activate lashers**.
+- During intermission, soak **<span style="color:red"> small red rings </span>** and then burn the roots with the debuff
+- **<span style="color:red"> NUKE </span>** boss while he is stunned after intermission
+
+**<span style="color:Green"> Healers </span>** 
+- **Big damage** during [Tortured Scream](https://ptr.wowdb.com/spells/422026-tortured-scream) and intermission. **Lashers apply bleeds**.
+
+**<span style="color:blue"> Tanks </span>** 
+- **Pickup Lashers** ASAP.
+- **Taunt swap** on [Dreadfire Barrage](https://ptr.wowdb.com/spells/426108-dreadfire-barrage)
+
+<hr>
+
 # **Tank Swap on** [Dreadfire Barrage](https://ptr.wowdb.com/spells/426108-dreadfire-barrage)
 
 # **Watch frontal:** [Shadowflame Cleave](https://ptr.wowdb.com/spells/422039-shadowflame-cleave)
 
-![Frontal](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Cleave.gif)
+![GnarCleave](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Cleave.gif)
 
 # **<span style="color:green"> Healers </span>** watch for big damage during **[Tortured Scream](https://ptr.wowdb.com/spells/422026-tortured-scream)**
 
@@ -31,5 +47,5 @@ categories: jekyll update
 ![Splintering Charcoal](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnarlroot_Splinter.gif)
 
 # When all of the roots are burned, Gnarlroot gains [Uprooted Agony](https://ptr.wowdb.com/spells/430324-uprooted-agony)
-
+Gnarlroot is stunned for 20 seconds, pulses damage, and **Takes 100% extra damage**
 ![Agony](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Agony.gif)

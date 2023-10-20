@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+Amirdrassil
+{% for boss in site.amirdrassil %}
+  
+- [{{ boss.title }}](/HoH{{boss.url}})
+
+{% endfor %}

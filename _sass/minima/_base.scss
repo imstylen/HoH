@@ -55,11 +55,14 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
   vertical-align: middle;
+  height: 256px;
+  width: auto;
+  display:block;
+  margin: 0 auto;
+
+
 }
-
-
 
 /**
  * Figures
