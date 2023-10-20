@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About
+# Raid times: T/W 7-10PM EST
