@@ -22,10 +22,11 @@ title: Heroes of Heroic
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   some text here
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: NA
-github_username:  NA
+
+baseurl: "/HoH"
+domain: "imstylen.github.io" # the subpath of your site, e.g. /blog
+url: "https://imstylen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 theme: minima
