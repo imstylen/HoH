@@ -28,7 +28,14 @@ body {
   flex-direction: column;
 }
 
+#calendar {
+  height: 70vh;
+  width: 100vh;
+}
 
+.fc-day {
+  height: 5vh;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
