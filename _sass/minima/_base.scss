@@ -162,6 +162,7 @@ blockquote {
  * Code formatting
  */
 pre,
+
 code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
@@ -171,18 +172,24 @@ code {
 
 code {
   padding: 1px 5px;
+  word-wrap: break-word;
 }
 
 pre {
+  text-wrap: wrap;
   padding: 8px 12px;
   overflow-x: auto;
+  overflow-y: auto;
+  height: 50vh;
 
-  > code {
+   > code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
+    word-wrap: break-word;
   }
 }
+
 
 
 

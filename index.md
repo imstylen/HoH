@@ -11,3 +11,5 @@ layout: home
 - [{{ boss.title }}](/HoH{{boss.url}})
 
 {% endfor %}
+
+# [Feloot's Hekili Weak Aura](/HoH/wa-hekili)
