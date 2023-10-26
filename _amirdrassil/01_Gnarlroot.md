@@ -24,7 +24,7 @@ title:  "01 - Gnarlroot (Heroic)"
 
 - # **Watch frontal:** [Shadowflame Cleave](https://ptr.wowdb.com/spells/422039-shadowflame-cleave)
 
-![GnarCleave](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/Assets/Gnarlroot/Gnar_Cleave.gif)
+![GnarCleave](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Cleave.gif)
 
 - # **<span style="color:green"> Healers </span>** watch for big damage during **[Tortured Scream](https://ptr.wowdb.com/spells/422026-tortured-scream)**
 
@@ -39,13 +39,13 @@ title:  "01 - Gnarlroot (Heroic)"
 - # If **YOU** get **[Controlled Burn](https://ptr.wowdb.com/spells/422091-controlled-burn)**, you have 6 seconds to stand on dormant lashers to activate them.
 **<span style="color:red"> All remaining lashers will activate at the start of intermission </span>**
 
-![Controlled Burn](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/Assets/Gnarlroot/Gnar_ControlledBurn.gif)
+![Controlled Burn](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_ControlledBurn.gif)
 
 - # In the intermission phase, Gnarlroot will summon **Doom Roots**
  Soak **Splintering Charcoal** (rings) to get **[Ember-Charred](https://ptr.wowdb.com/spells/425002-ember-charred)** debuff, then burn the roots.
 
-![Splintering Charcoal](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/Assets/Gnarlroot/Gnarlroot_Splinter.gif)
+![Splintering Charcoal](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnarlroot_Splinter.gif)
 
 - # When all of the roots are burned, Gnarlroot gains [Uprooted Agony](https://ptr.wowdb.com/spells/430324-uprooted-agony)
 Gnarlroot is stunned for 20 seconds, pulses damage, and **Takes 100% extra damage**
-![Agony](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/Assets/Gnarlroot/Gnar_Agony.gif)
+![Agony](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Agony.gif)
