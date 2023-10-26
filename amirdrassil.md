@@ -8,6 +8,6 @@ layout: default
 Amirdrassil Bosses:
 {% for boss in site.amirdrassil %}
   
-- [{{ boss.title }}](/HoH{{boss.url}})
+- [{{ boss.title }}]({{boss.url}})
 
 {% endfor %}
