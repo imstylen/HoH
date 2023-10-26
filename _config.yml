@@ -21,9 +21,10 @@
 title: Heroes of Heroic
 
 
-baseurl: "/HoH"
-domain: "imstylen.github.io/HoH" # the subpath of your site, e.g. /blog
-url: "https://imstylen.github.io/HoH" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+domain: "hoh.gg" # the subpath of your site, e.g. /blog
+url: "https://hoh.gg" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 
 # Build settings

@@ -6,7 +6,7 @@ layout: home
 comments: false
 ---
 # [Want to join? (Discord)](https://discord.gg/xXdp5C3RWC)
-- [Current Roster/Schedule](/HoH/roster)
+- [Current Roster/Schedule](/roster)
 
 <hr>
 
@@ -18,4 +18,4 @@ comments: false
 {% endfor %}
 <hr>
 <p></p>
-# [Feloot's Hekili Weak Aura](/HoH/wa-hekili)
+# [Feloot's Hekili Weak Aura](/wa-hekili)
