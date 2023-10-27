@@ -5,13 +5,13 @@ title:  "04 - Council of Dreams (Heroic)"
 
 <hr>
 # **TLDR:**
-**Everyone**
+{%all Everyone%}
 - todo
 
-**<span style="color:Green"> Healers </span>** 
+{%heal Healers%}
 - Todo
 
-**<span style="color:blue"> Tanks </span>** 
+{%tank Tanks%}
 - todo
 
 <hr>
@@ -19,4 +19,4 @@ title:  "04 - Council of Dreams (Heroic)"
 # Notes:
 - todo
 
-{%tank taunt swap on xyz%}   
+- # {%tank taunt swap on xyz%}   

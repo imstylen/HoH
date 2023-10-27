@@ -5,13 +5,13 @@ title:  "03 - Volcoross (Heroic)"
 
 <hr>
 # **TLDR:**
-**Everyone**
+**{%all Everyone%}**
 - todo
 
-**<span style="color:Green"> Healers </span>** 
+{%heal Healers%}
 - Todo
 
-**<span style="color:blue"> Tanks </span>** 
+{%tank Tanks%}
 - todo
 
 <hr>
@@ -26,6 +26,7 @@ title:  "03 - Volcoross (Heroic)"
 
 - # **Don't stand in [Hellboil](https://ptr.wowdb.com/spells/421082-hellboil)**
 ![HB](/assets/Hellboil.png)
+
 Did you really need a pic of this one???
 
 - # **<span style="color:green">Heal</span>  [Serpent's fury](https://ptr.wowdb.com/spells/425401-serpents-fury)**

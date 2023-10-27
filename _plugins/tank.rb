@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-        "<span style=\"color:blue\"> <img class=\"icon\" src=\"/assets/Tank.png\"> #{@text} </span>"
+        "<span style=\"color:blue\"> <img class=\"icon\" src=\"/assets/Tank.png\"> &nbsp; <b>#{@text}</b> </span>"
     end
   end
 end

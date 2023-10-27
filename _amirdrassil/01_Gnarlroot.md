@@ -5,24 +5,24 @@ title:  "01 - Gnarlroot (Heroic)"
 
 <hr>
 # **TLDR:**
-**Everyone**
+**{%all Everyone%}**
 - **Dodge** **<span style="color:purple"> purple</span>** frontal, and **<span style="color:orange"> orange</span>** swirlies.
 - If you get the **<span style="color:red"> big red circle</span>**, **activate lashers**.
 - During intermission, soak **<span style="color:red"> small red rings </span>** and then burn the roots with the debuff
 - **<span style="color:red"> NUKE </span>** boss while he is stunned after intermission
 
-**<span style="color:Green"> Healers </span>** 
+{%heal Healers%}
 - **Big damage** during [Tortured Scream](https://ptr.wowdb.com/spells/422026-tortured-scream) and intermission. **Lashers apply bleeds**.
 
-**<span style="color:blue"> Tanks </span>** 
+{%tank Tanks%}
 - **Pickup Lashers** ASAP.
 - **Taunt swap** on [Dreadfire Barrage](https://ptr.wowdb.com/spells/426108-dreadfire-barrage)
 
 <hr>
 
-- # **Tank Swap on** [Dreadfire Barrage](https://ptr.wowdb.com/spells/426108-dreadfire-barrage)
+- # **{% tank Swap on%}** [Dreadfire Barrage](https://ptr.wowdb.com/spells/426108-dreadfire-barrage)
 
-- # **Watch frontal:** [Shadowflame Cleave](https://ptr.wowdb.com/spells/422039-shadowflame-cleave)
+- # **{% all Watch frontal:%}** [Shadowflame Cleave](https://ptr.wowdb.com/spells/422039-shadowflame-cleave)
 
 ![GnarCleave](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Cleave.gif)
 

@@ -6,7 +6,7 @@ layout: home
 comments: false
 ---
 <h1><a href= "https://discord.gg/xXdp5C3RWC"> <span > Join us on <img id="home_discord" src="/assets/Discord.png"> </span></a></h1>
-- [Current Roster/Schedule](/roster)
+- {%all %}**[Current Roster/Schedule/Signups/Apply](/roster)** {%all %}
 
 <hr>
 

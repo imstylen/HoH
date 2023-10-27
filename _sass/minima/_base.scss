@@ -62,25 +62,26 @@ main {
  * Images
  */
 img {
-  vertical-align: middle;
   height: 256px;
   width: auto;
-  display:block;
-  margin: 0 auto;
+  display:inline;
+  margin: auto, auto;
 
 
 }
 
 .icon {
+  vertical-align:bottom;
   height: 32px;
   width:auto;
-  float:left;
+  float:inline;
 }
 
 #home_discord{
   height: 32px;
   width:auto;
   display:inline;
+  vertical-align: middle;
 }
 /**
  * Figures

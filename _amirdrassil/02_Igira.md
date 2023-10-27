@@ -5,14 +5,14 @@ title:  "02 - Igira the Cruel (Heroic)"
 
 <hr>
 # **TLDR:**
-**Everyone**
+**{%all Everyone%}**
 - **Dodge Frontal** [Twisting Blade](https://ptr.wowdb.com/spells/429398-twisting-blade)
 - **<span style="color:red">Kill</span> [Blistering Spears](https://ptr.wowdb.com/spells/425414-blistering-spear)**
 
-**<span style="color:Green"> Healers </span>** 
+{%heal Healers%}
 - Todo
 
-**<span style="color:blue"> Tanks </span>** 
+{%tank Tanks%}
 - Tanks MUST stack
 - Taunt swap on [Drenching Blades]()
 

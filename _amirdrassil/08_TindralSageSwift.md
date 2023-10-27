@@ -5,13 +5,13 @@ title:  "08 - Tindral Sageswift"
 
 <hr>
 # **TLDR:**
-**Everyone**
+{%all Everyone%}
 - todo
 
-**<span style="color:Green"> Healers </span>** 
+{%heal Healers%}
 - Todo
 
-**<span style="color:blue"> Tanks </span>** 
+{%tank Tanks%}
 - todo
 
 <hr>
