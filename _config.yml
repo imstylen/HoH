@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
 disqus:
   shortname: hoh-1
   

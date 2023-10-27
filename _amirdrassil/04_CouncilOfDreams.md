@@ -19,4 +19,4 @@ title:  "04 - Council of Dreams (Heroic)"
 # Notes:
 - todo
 
-    
+{%tank taunt swap on xyz%}   
