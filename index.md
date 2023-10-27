@@ -5,7 +5,7 @@
 layout: home
 comments: false
 ---
-# [Want to join? (Discord)](https://discord.gg/xXdp5C3RWC)
+<h1><a href= "https://discord.gg/xXdp5C3RWC"> <span > Join us on <img id="home_discord" src="/assets/Discord.png"> </span></a></h1>
 - [Current Roster/Schedule](/roster)
 
 <hr>
