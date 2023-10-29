@@ -8,7 +8,7 @@ comments: true
 
 # Feloot's Hekili Weak Aura
 Showcase Vid, and Setup Instructions **([Import string below](#import-string))**
-<video height="720" width="1080" controls>
+<video height="480" width="640" controls>
 
 <source src="https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/HekiliWA/2023-10-25%2006-44-49_1.mp4" type="video/mp4">
 </video>

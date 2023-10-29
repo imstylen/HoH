@@ -5,8 +5,21 @@
 layout: page
 comments: false
 ---
-# **This roster is a WORK IN PROGRESS**
-# [Signup/Application](#signups) form below
+
+{%all%}**[Signup/Application](#signups) form below**{%all%}
+
+### Current Slot Priorities:
+- Any good players.
+
+<hr>
+
+# **Server:** US-Sargeras (A/H)
+# **Raid times:** [ T / W ] 7-10PM EST
+
+<hr>
+
+**<span style="color:red">This roster is a WORK IN PROGRESS</span>**
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX056malWaVaBK65YzwcQslJ6yCiMtiybr8G6FynLzUTJzuj4JWDdZFMha9LqtCpYmonIs6vfNJJeS/pubhtml?widget=true&amp;headers=false"
 
     frameBorder="0"

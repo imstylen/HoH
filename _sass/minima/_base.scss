@@ -8,7 +8,9 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
+body {
+  padding-top: 50px;
+}
 
 /**
  * Basic styling
@@ -124,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a {
+/*a {
   color: $brand-color;
   text-decoration: none;
 
@@ -145,7 +147,7 @@ a {
     }
   }
 }
-
+*/
 
 /**
  * Blockquotes

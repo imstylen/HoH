@@ -5,17 +5,22 @@
 layout: home
 comments: false
 ---
-<h1><a href= "https://discord.gg/xXdp5C3RWC"> <span > Join us on <img id="home_discord" src="/assets/Discord.png"> </span></a></h1>
-- {%all %}**[Current Roster/Schedule/Signups/Apply](/roster)** {%all %}
+<h1> 
+    <a href= "https://discord.gg/xXdp5C3RWC">
+        <span > Join us on: <img id="home_discord" src="/assets/Discord.png"> </span>
+    </a>
+</h1>
+
+**You need a team. We need players.** 
+
+{%all %}**[Current Roster/Schedule/Signups/Apply](/roster)** {%all %}
 
 <hr>
+<div class="container py-2"></div>
+### [Amirdrassil Info/Guides](/amirdrassil)
 
-# Amirdrassil Bosses:
-{% for boss in site.amirdrassil %}
-  
-- [{{ boss.title }}]({{boss.url}})
-
-{% endfor %}
+![logo](/assets/GuardiansLogo.png)
+#### First Raid (Normal: 11/14)
 <hr>
 <p></p>
 # [Feloot's Hekili Weak Aura](/wa-hekili)

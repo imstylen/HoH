@@ -8,6 +8,10 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+body {
+  padding-top: 50px;
+}
+
 /**
  * Basic styling
  */
@@ -109,24 +113,28 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a {
-  color: #2a7ae2;
+/*a {
+  color: $brand-color;
   text-decoration: none;
-}
-a:visited {
-  color: #1756a9;
-}
-a:hover {
-  color: #111;
-  text-decoration: underline;
-}
-.social-media-list a:hover {
-  text-decoration: none;
-}
-.social-media-list a:hover .username {
-  text-decoration: underline;
-}
 
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+*/
 /**
  * Blockquotes
  */

@@ -4,10 +4,17 @@
 
 layout: default
 ---
+# [Loot iLvls](/amirdrassil_loot)
 
-Amirdrassil Bosses:
+# Boss Order:
+![Bosses](/assets/Boss Order.png)
+
+<hr>
+# Amirdrassil Bosses Guides:
 {% for boss in site.amirdrassil %}
-  
 - [{{ boss.title }}]({{boss.url}})
-
 {% endfor %}
+
+# WeakAuras:
+
+- TODO
