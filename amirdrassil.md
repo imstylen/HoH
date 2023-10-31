@@ -4,7 +4,6 @@
 
 layout: default
 ---
-# [Loot iLvls](/amirdrassil_loot)
 
 # Boss Order:
 ![Bosses](/assets/Boss Order.png)
@@ -15,6 +14,3 @@ layout: default
 - [{{ boss.title }}]({{boss.url}})
 {% endfor %}
 
-# WeakAuras:
-
-- TODO
