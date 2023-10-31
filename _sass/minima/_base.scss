@@ -1,64 +1,6 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0;
+.copy-code-button {
+  display: block;
 }
-
-body {
-  padding-top: 50px;
-}
-
-/**
- * Basic styling
- */
-body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-#calendar {
-  height: 70vh;
-  width: 100vh;
-}
-
-.fc-day {
-  height: 5vh;
-}
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
-}
-
-
-
-/**
- * `main` element
- */
-main {
-  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
-}
-
-
 
 /**
  * Images
@@ -66,9 +8,9 @@ main {
 img {
   height: 256px;
   width: auto;
-  display:inline;
-  margin: auto, auto;
-
+  display:block;
+  padding-left:25%;
+  padding-right:auto;
 
 }
 
@@ -76,78 +18,18 @@ img {
   vertical-align:bottom;
   height: 32px;
   width:auto;
+  display:inline;
   float:inline;
+  padding-left: 0;
 }
 
 #home_discord{
   height: 32px;
   width:auto;
   display:inline;
+  padding-left: 1%;
   vertical-align: middle;
 }
-/**
- * Figures
- */
-figure > img {
-  display: block;
-}
-
-figcaption {
-  font-size: $small-font-size;
-}
-
-
-
-/**
- * Lists
- */
-ul, ol {
-  margin-left: $spacing-unit;
-}
-
-li {
-  > ul,
-  > ol {
-    margin-bottom: 0;
-  }
-}
-
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
-}
-
-
-
-/**
- * Links
- */
-/*a {
-  color: $brand-color;
-  text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
-  &:hover {
-    color: $text-color;
-    text-decoration: underline;
-  }
-
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
-  }
-}
-*/
 
 /**
  * Blockquotes
@@ -207,28 +89,6 @@ pre {
 
 
 /**
- * Wrapper
- */
-.wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
-  @extend %clearfix;
-
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-  }
-}
-
-
-
-/**
  * Clearfix
  */
 %clearfix:after {
@@ -237,26 +97,6 @@ pre {
   clear: both;
 }
 
-
-
-/**
- * Icons
- */
-
-.svg-icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;
-}
-
-.social-media-list {
-  li + li {
-    padding-top: 5px;
-  }
-}
 
 
 
