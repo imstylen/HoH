@@ -37,5 +37,15 @@
 			"{%all $1%}",
 		],
 		"description": "Log output to console"
+	},
+	"Space": {
+		"scope": "markdown",
+		"prefix": "/sp",
+		"body": [
+			"{%space%}",
+		],
+		"description": "Log output to console"
 	}	
+
+
 }

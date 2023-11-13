@@ -50,3 +50,5 @@ title:  "01 - Gnarlroot (Heroic)"
 Gnarlroot is stunned for 20 seconds, pulses damage, and **Takes 100% extra damage**
 
 ![Agony](https://cloud.stylenmedia.com/apps/sharingpath/michael/10000%20Personal/10000%20References/HoH/Assets/Gnarlroot/Gnar_Agony.gif)
+
+# [Next: Igira](/amirdrassil/02_Igira)
